@@ -12,7 +12,7 @@ p {
 }
 table {color: red}
 body {
-    background-image: url('/img/background.jpg');
+    background-image: url('/img/Background.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
