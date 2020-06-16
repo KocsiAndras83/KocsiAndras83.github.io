@@ -1,0 +1,13 @@
+h2 {
+    color: royalblue;
+    text-align: center;
+}
+h3 {color: skyblue}
+p {color: midnightblue}
+table {color: midnightblue}
+body {
+    background-image: url('/img/background.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
