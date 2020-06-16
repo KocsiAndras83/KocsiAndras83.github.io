@@ -1,10 +1,16 @@
-h2 {
-    color: royalblue;
+h1 {
+    color: brown;
     text-align: center;
 }
-h3 {color: skyblue}
-p {color: midnightblue}
-table {color: midnightblue}
+h2 {
+    color: brown;
+    text-align: center;
+}
+h3 {color: darkred;}
+p {
+    color: red
+}
+table {color: red}
 body {
     background-image: url('/img/background.jpg');
     background-attachment: fixed;
